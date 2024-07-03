@@ -169,6 +169,7 @@ const updatedBook = {
 }
 updatedBook;
 
+
 const getYear = (str) => str.split("-")[0];
 
 
